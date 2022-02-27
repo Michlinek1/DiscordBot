@@ -91,4 +91,4 @@ async def Info(ctx, member: discord.Member ):
     await ctx.send(embed=embed)
 
 
-client.run('ODU2Mjc0NjE0NTM1NzE2ODc1.YM-p4A.mV0WyuRlEN9ES3zSIw4XdPxAeG0')
+client.run()
